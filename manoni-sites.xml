@@ -4,15 +4,15 @@
     <version>10.0.14357.1004</version>
     <date-created>06/06/2018 07:56:08</date-created>
   </created-by>
-  <site url="www.manoni.com">
+  <site url="http://manoni-logistics.com/">
     <compat-mode>Default</compat-mode>
     <open-in>None</open-in>
   </site>
-  <site url="portal.azure.com">
+  <site url="https://portal.office.com">
     <compat-mode>Default</compat-mode>
     <open-in>None</open-in>
   </site>
-  <site url="t-systems.com">
+  <site url="https://office.com">
     <compat-mode>Default</compat-mode>
     <open-in>None</open-in>
   </site>
