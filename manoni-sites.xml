@@ -8,6 +8,10 @@
     <compat-mode>Default</compat-mode>
     <open-in>None</open-in>
   </site>
+    <site url="https://tsims365dev.cloud.com/Citrix/StoreWeb/#/login">
+    <compat-mode>Default</compat-mode>
+    <open-in>None</open-in>
+  </site>
   <site url="https://portal.office.com">
     <compat-mode>Default</compat-mode>
     <open-in>None</open-in>
